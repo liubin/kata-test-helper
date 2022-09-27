@@ -1,0 +1,10 @@
+﻿{
+  "manifest_version": 3,
+  "name": "Kata Containers test helper",
+  "version": "1",
+  "host_permissions": ["*://*.github.com/kata-containers/*"],
+  "content_scripts":[{
+    "matches":["https://github.com/kata-containers/kata-containers", "https://github.com/kata-containers/tests"],
+    "js":["content_script.js"]
+  }]
+}

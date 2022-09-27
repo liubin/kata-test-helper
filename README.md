@@ -1,1 +1,23 @@
-# kata-test-helper
+# Kata Containers test helper
+
+Help run tests by comment instrument.
+
+## Install
+
+```bash
+$ git clone https://github.com/liubin/kata-test-helper.git
+```
+
+The source is unpacked, so please install it by the [official instrument](https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked).
+
+## How to use
+
+When the extension is enabled, the test instrument will show if you type `/test`:
+
+- Use arrow up/down and enter key to select different tests
+- Use mouse to click
+
+## Credit
+
+Thanks for JavaScript expert [Tim Zhang](https://github.com/Tim-Zhang).
+
