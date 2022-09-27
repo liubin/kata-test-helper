@@ -4,7 +4,7 @@
   "version": "1",
   "host_permissions": ["*://*.github.com/kata-containers/*"],
   "content_scripts":[{
-    "matches":["https://github.com/kata-containers/kata-containers", "https://github.com/kata-containers/tests"],
+    "matches":["https://github.com/kata-containers/kata-containers/pull/*", "https://github.com/kata-containers/tests/pull/*"],
     "js":["content_script.js"]
   }]
 }
