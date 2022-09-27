@@ -17,6 +17,11 @@ When the extension is enabled, the test instrument will show if you type `/test`
 - Use arrow up/down and enter key to select different tests
 - Use mouse to click
 
+## Todos
+
+- [ ] Show popup near cursor, now it shows at a fixed position.
+- [ ] Let test instruments configurable, not harded code.
+
 ## Credit
 
 Thanks for JavaScript expert [Tim Zhang](https://github.com/Tim-Zhang).
