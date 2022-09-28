@@ -2,6 +2,8 @@
 
 Help run tests by comment instrument.
 
+**Warning**: This plugin may change user inputs in GitHub comment textarea of PR page, you are under risk of lost your content that you are typing.
+
 ## Install
 
 ```bash

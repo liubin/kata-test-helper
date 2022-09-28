@@ -1,4 +1,4 @@
-let testList = `<ul role="listbox" class="suggester-container suggester suggestions list-style-none position-absolute" id="kata-test-list" style="top: 9px; left: 21.7119px;">
+let testList = `<ul role="listbox" class="suggester-container suggester suggestions list-style-none position-absolute" id="kata-test-list" style="top: 10px; left: 40px;">
       <li role="option" class="kata-test-options" id="test-metrics" data-value="/test-metrics" aria-selected="true">
         <span>/test-metrics</span>
       </li>
@@ -7,6 +7,45 @@ let testList = `<ul role="listbox" class="suggester-container suggester suggesti
       </li>
       <li role="option" class="kata-test-options" id="test-arm" data-value="/test-arm" aria-selected="false">
         <span>/test-arm</span>
+      </li>
+      <li role="option" class="kata-test-options" id="test-ubuntu-metrics" data-value="/test-ubuntu-metrics" aria-selected="false">
+        <span>/test-ubuntu-metrics</span>
+      </li>
+      <li role="option" class="kata-test-options" id="test-ubuntu" data-value="/test-ubuntu" aria-selected="false">
+        <span>/test-ubuntu</span>
+      </li>
+      <li role="option" class="kata-test-options" id="test-centos" data-value="/test-centos" aria-selected="false">
+        <span>/test-centos</span>
+      </li>
+      <li role="option" class="kata-test-options" id="test-dragonball" data-value="/test-dragonball" aria-selected="false">
+        <span>/test-dragonball</span>
+      </li>
+      <li role="option" class="kata-test-options" id="test-fc" data-value="/test-fc" aria-selected="false">
+        <span>/test-fc</span>
+      </li>
+      <li role="option" class="kata-test-options" id="test-fedora" data-value="/test-fedora" aria-selected="false">
+        <span>/test-fedora</span>
+      </li>
+      <li role="option" class="kata-test-options" id="test-clh-k8s-containerd" data-value="/test-clh-k8s-containerd" aria-selected="false">
+        <span>/test-clh-k8s-containerd</span>
+      </li>
+      <li role="option" class="kata-test-options" id="test_kata_deploy" data-value="/test_kata_deploy" aria-selected="false">
+        <span>/test_kata_deploy</span>
+      </li>
+      <li role="option" class="kata-test-options" id="test-devmapper-clh" data-value="/test-devmapper-clh" aria-selected="false">
+        <span>/test-devmapper-clh</span>
+      </li>
+      <li role="option" class="kata-test-options" id="test-devmapper-qemu" data-value="/test-devmapper-qemu" aria-selected="false">
+        <span>/test-devmapper-qemu</span>
+      </li>
+      <li role="option" class="kata-test-options" id="test-devmapper" data-value="/test-devmapper" aria-selected="false">
+        <span>/test-devmapper</span>
+      </li>
+      <li role="option" class="kata-test-options" id="test-s390x" data-value="/test-s390x" aria-selected="false">
+        <span>/test-s390x</span>
+      </li>
+      <li role="option" class="kata-test-options" id="test-power" data-value="/test-power" aria-selected="false">
+        <span>/test-power</span>
       </li>
 </ul>`;
 
