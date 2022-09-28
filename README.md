@@ -2,8 +2,6 @@
 
 Help run tests by comment instrument.
 
-**Warning**: This plugin may change user inputs in GitHub comment textarea of PR page, you are under risk of lost your content that you are typing.
-
 ## Install
 
 ```bash
@@ -18,6 +16,10 @@ When the extension is enabled, the test instrument will show if you type `/test`
 
 - Use arrow up/down and enter key to select different tests
 - Use mouse to click
+
+## Warning
+
+ This plugin may change user inputs in GitHub comment textarea of PR page, you are under risk of lost your content that you are typing.
 
 ## Todos
 
