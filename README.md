@@ -12,7 +12,7 @@ The source is unpacked, so please install it by the [official instrument](https:
 
 ## How to use
 
-When the extension is enabled, the test instrument will show if you type `/test`:
+When the extension is enabled, the test instrument will show if you type `/test<SPACE>`:
 
 - Use arrow up/down and enter key to select different tests
 - Use mouse to click
